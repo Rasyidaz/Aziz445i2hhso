@@ -15,7 +15,7 @@ I'm currently learning to become a **Fullstack Developer**, with a strong passio
 
 ## 🎯 Career Goals
 
-To become a **professional Fullstack Developer** and contribute to impactful tech solutions, especially in the field of education and social development.
+To become a **professional Developer** and contribute to impactful tech solutions, especially in the field of education and social development.
 
 ## 📫 Connect With Me
 
